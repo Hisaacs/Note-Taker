@@ -2,6 +2,8 @@
 
 # Deployement Link: https://isa-note-taker.herokuapp.com/
 
+# GitHub Link: https://github.com/Hisaacs/Note-taker
+
 ## Screenshots
 
 ![Landing-Page](https://user-images.githubusercontent.com/19741669/107210859-ae055100-6a3f-11eb-8008-04ebe98d26f4.PNG)
