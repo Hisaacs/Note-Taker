@@ -1,5 +1,15 @@
 # 11 Express.js: Note Taker
 
+## Screenshot
+
+![Landing-Page](https://user-images.githubusercontent.com/19741669/107210859-ae055100-6a3f-11eb-8008-04ebe98d26f4.PNG)
+
+![Landing-Page-2](https://user-images.githubusercontent.com/19741669/107210868-b198d800-6a3f-11eb-86e0-204693d02503.PNG)
+
+![Landing-Page-3](https://user-images.githubusercontent.com/19741669/107210875-b3629b80-6a3f-11eb-99a6-d375db588ce4.PNG)
+
+![Landing-Page-4](https://user-images.githubusercontent.com/19741669/107210878-b5c4f580-6a3f-11eb-86f4-1fc9494ba271.PNG)
+
 ## Description
 
 This application can be used for writing, saving and also deleting notes. This application uses express backend for the saving and retrieving of note data from a JSON file.
@@ -33,13 +43,5 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 ## Business Context
 This appilcation is targeted at users who are needing to keep track of their personal information, daily tasks or important events. As long as your device is connected to the internet, this application will allow you to have your notes available when and where required.
 
-## Screenshot
 
-![Landing-Page](https://user-images.githubusercontent.com/19741669/107210859-ae055100-6a3f-11eb-8008-04ebe98d26f4.PNG)
-
-![Landing-Page-2](https://user-images.githubusercontent.com/19741669/107210868-b198d800-6a3f-11eb-86e0-204693d02503.PNG)
-
-![Landing-Page-3](https://user-images.githubusercontent.com/19741669/107210875-b3629b80-6a3f-11eb-99a6-d375db588ce4.PNG)
-
-![Landing-Page-4](https://user-images.githubusercontent.com/19741669/107210878-b5c4f580-6a3f-11eb-86f4-1fc9494ba271.PNG)
 
