@@ -4,15 +4,10 @@
 
  GitHub Link: https://github.com/Hisaacs/Note-taker
 
-## Screenshots
+## Preview
 
-![Landing-Page](https://user-images.githubusercontent.com/19741669/107210859-ae055100-6a3f-11eb-8008-04ebe98d26f4.PNG)
+![Note-taker](https://user-images.githubusercontent.com/19741669/107332319-fd568a80-6aee-11eb-8904-d7dc18c839e7.gif)
 
-![Landing-Page-2](https://user-images.githubusercontent.com/19741669/107210868-b198d800-6a3f-11eb-86e0-204693d02503.PNG)
-
-![Landing-Page-3](https://user-images.githubusercontent.com/19741669/107210875-b3629b80-6a3f-11eb-99a6-d375db588ce4.PNG)
-
-![Landing-Page-4](https://user-images.githubusercontent.com/19741669/107210878-b5c4f580-6a3f-11eb-86f4-1fc9494ba271.PNG)
 
 ## Description
 
