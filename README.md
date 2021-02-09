@@ -1,8 +1,10 @@
 # 11 Express.js: Note Taker
 
- Deployement Link: https://isa-note-taker.herokuapp.com/
+ ## Deployement 
+ 
+ Heroku: https://isa-note-taker.herokuapp.com/
 
- GitHub Link: https://github.com/Hisaacs/Note-taker
+ GitHub repository URL: https://github.com/Hisaacs/Note-taker
 
 ## Description
 
