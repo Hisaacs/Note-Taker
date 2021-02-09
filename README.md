@@ -37,12 +37,10 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 ## Business Context
 This appilcation is targeted at users who are needing to keep track of their personal information, daily tasks or important events. As long as your device is connected to the internet, this application will allow you to have your notes available when and where required.
 
-Mock-up screenshots
-
 ## Preview
 
 #### In this preview I would like to demonstrate the application functionality.
 
-![Note-taker](https://user-images.githubusercontent.com/19741669/107334743-0f85f800-6af2-11eb-967d-c03943e6b7cd.gif)
+![Note-taker](https://user-images.githubusercontent.com/19741669/107336305-e6fefd80-6af3-11eb-8c54-ae63929755b3.gif)
 
 
