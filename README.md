@@ -4,13 +4,6 @@
 
  GitHub Link: https://github.com/Hisaacs/Note-taker
 
-## Preview
-
-#### In this preview I would like to demonstrate the application functionality.
-
-![Note-taker](https://user-images.githubusercontent.com/19741669/107334743-0f85f800-6af2-11eb-967d-c03943e6b7cd.gif)
-
-
 ## Description
 
 This application can be used for writing, saving and also deleting notes. This application uses express backend for the saving and retrieving of note data from a JSON file.
@@ -44,5 +37,12 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 ## Business Context
 This appilcation is targeted at users who are needing to keep track of their personal information, daily tasks or important events. As long as your device is connected to the internet, this application will allow you to have your notes available when and where required.
 
+Mock-up screenshots
+
+## Preview
+
+#### In this preview I would like to demonstrate the application functionality.
+
+![Note-taker](https://user-images.githubusercontent.com/19741669/107334743-0f85f800-6af2-11eb-967d-c03943e6b7cd.gif)
 
 
