@@ -4,7 +4,7 @@
 
 This application can be used for writing, saving and also deleting notes. This application uses express backend for the saving and retrieving of note data from a JSON file.
 
- ## Deployement Link
+ ## Deployed Link
 
 Heroku: https://isa-note-taker.herokuapp.com/
  GitHub repository URL: https://github.com/Hisaacs/Note-taker
