@@ -41,6 +41,6 @@ This appilcation is targeted at users who are needing to keep track of their per
 
 #### In this preview I would like to demonstrate the application functionality.
 
-![Note-taker](https://user-images.githubusercontent.com/19741669/107334743-0f85f800-6af2-11eb-967d-c03943e6b7cd.gif)
+![Note-taker](https://user-images.githubusercontent.com/19741669/107332319-fd568a80-6aee-11eb-8904-d7dc18c839e7.gif)
 
 
