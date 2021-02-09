@@ -6,7 +6,7 @@
 
 ## Preview
 
-![Note-taker](https://user-images.githubusercontent.com/19741669/107332319-fd568a80-6aee-11eb-8904-d7dc18c839e7.gif)
+![Note-taker](https://user-images.githubusercontent.com/19741669/107334743-0f85f800-6af2-11eb-967d-c03943e6b7cd.gif)
 
 
 ## Description
