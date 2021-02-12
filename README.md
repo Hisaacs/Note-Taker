@@ -7,7 +7,7 @@ This application can be used for writing, saving and also deleting notes. This a
  ## Deployed Link
 
 Heroku: https://isa-note-taker.herokuapp.com/
- GitHub repository URL: https://github.com/Hisaacs/Note-taker
+GitHub repository URL: https://github.com/Hisaacs/Note-taker
 
 
 ## User Story
